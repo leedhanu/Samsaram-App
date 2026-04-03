@@ -1,0 +1,24 @@
+
+{
+  "name": "Kinnaram - Friends Corner",
+  "short_name": "Kinnaram",
+  "description": "Premium connections and social community.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#d64e02",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://kinnaram.online/uploads/hlogo.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://kinnaram.online/uploads/hlogo.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Kinnaram - Friends Corner",
+  "description": "A premium social connection app with audio/video calls, short videos, and a dedicated host-user ecosystem.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
